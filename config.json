@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+        "Jable.TV": {
+      "api": "https://jable.tv/",
+      "name": "免費高清AV在線看"
+    }
   }
 }
